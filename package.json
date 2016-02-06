@@ -5,11 +5,12 @@
   "main": "index.js",
   "dependencies": {
     "bcrypt-nodejs": "^0.0.3",
+    "bluebird": "^3.2.2",
     "express": "^4.13.4",
     "express-session": "^1.13.0",
     "mongoose": "^4.4.1",
-    "passport-local": "^1.0.0",
-    "passport": "^0.3.2"
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
   },
   "devDependencies": {
     "coffee-script": "^1.10.0"
